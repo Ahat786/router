@@ -1,0 +1,68 @@
+
+
+nav{
+
+    background-color: rgb(26, 27, 29);
+    color: white;
+    display: flex;
+    justify-content: end;
+   
+    gap: 20px;
+
+}
+li{
+    list-style: none;
+    padding: 22px;
+   
+
+}
+
+a li{
+    text-decoration: none;
+    color: white;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.red{
+    background-color: rgb(68, 71, 71);
+    color: white;
+    border-radius: 10px;
+
+}
+.Logos{
+
+    display: block;
+    margin: auto;
+    position: relative;
+    left: 20px;
+   
+
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(234, 238, 237);
+    position: relative;
+    left: 400px;
+    top: 40px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+
+}
+
+.box h2{
+    position: relative;
+    left:  150px;
+    top: 20px;
+}
+
+.box img{
+    width: 10%;
+    
+}
